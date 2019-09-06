@@ -10,5 +10,5 @@ Create a batch file
 > @ECHO OFF
 > CALL python UniversalHouriles.py username password C:\\directory\\to\\save\\worksheet
 
-Using Windows Task Scheduler create a task to run script every hour. 
+Using Windows Task Scheduler create a task to run batch file every hour. 
 
